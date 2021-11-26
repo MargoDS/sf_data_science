@@ -9,7 +9,7 @@
 
 [4. Метрика качества](https://github.com/MargaritaKr/sf_data_science/tree/main/project_0/README.md#Метрика-качества)
 
-[5. Результат](https://github.com/MargaritaKr/sf_data_science/tree/main/project_0/README.md#Результат)
+[5. Что практикуем](https://github.com/MargaritaKr/sf_data_science/tree/main/project_0/README.md#Что-практикуем)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -27,4 +27,4 @@
 ### Что практикуем
 Учимся писать хороший код на Python
 
-
+:arrow_up:[к оглавлению](https://github.com/MargaritaKr/sf_data_science/tree/main/project_0/README.md#Оглавление)
