@@ -3,15 +3,15 @@
 [Booking.com](https://www.booking.com/)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Результат)
+[5. Результат](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Результат)
 
 ### Описание проекта
 Представьте, что вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
