@@ -1,6 +1,7 @@
 # Проект 3. Разведывательный анализ данных и проектирование признаков для построения модели машинного обучения
 На примере базы данных отзывов с сайта 
 [Booking.com](https://www.booking.com/)
+:arrow_right:[к проекту](https://github.com/MargaritaKr/sf_data_science/blob/main/project_3_EDA/Project_3_Kravchenko_v.final.ipynb)
 
 ## Оглавление
 [1.Описание проекта](https://github.com/MargaritaKr/sf_data_science/blob/main/project_3_EDA/README.md#Описание-проекта)
