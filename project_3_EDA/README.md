@@ -42,4 +42,4 @@
 В результате работы над проектом удалось реализовать и оценить значимость для модели различных методов обработки и конструирования признаков. 
 Попробовать разные подходы к обработке одних и тех же данных и выбрать наиболее эффективные.
 
-:arrow_up:[к оглавлению](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MargaritaKr/sf_data_science/tree/main/project_3_EDA/README.md#Оглавление)
