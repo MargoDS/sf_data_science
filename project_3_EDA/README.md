@@ -2,7 +2,7 @@
 На примере базы данных отзывов с сайта 
 [Booking.com](https://www.booking.com/)
 
-:arrow_right:[к проекту](https://github.com/MargaritaKr/sf_data_science/blob/main/project_3_EDA/Project_3_Kravchenko_v.final.ipynb)
+[к проекту](https://github.com/MargaritaKr/sf_data_science/blob/main/project_3_EDA/Project_3_Kravchenko_v.final.ipynb):arrow_right:
 
 ## Оглавление
 [1.Описание проекта](https://github.com/MargaritaKr/sf_data_science/blob/main/project_3_EDA/README.md#Описание-проекта)
